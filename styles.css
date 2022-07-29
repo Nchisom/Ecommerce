@@ -217,7 +217,7 @@ h2 {
 .row {
     width: 100%;
     max-width: 1200px;
-    margin: 0 atuo;
+    margin: 0 auto;
 }
 
 .row__column {
